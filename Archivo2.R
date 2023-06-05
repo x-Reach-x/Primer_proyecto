@@ -12,3 +12,5 @@ printData <- function(x) {
 }
 
 printData(y)
+
+print("Una impresion de mensaje")
