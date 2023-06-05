@@ -1,4 +1,5 @@
-z <- 20:30
+
+y<-1:30
 
 printData <- function(x) {
   for(i in x) {
@@ -10,4 +11,4 @@ printData <- function(x) {
   }
 }
 
-printData(z)
+printData(y)
